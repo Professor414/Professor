@@ -1,0 +1,5 @@
+# --- START OF FILE: requirements.txt ---
+telethon
+moviepy
+yt-dlp
+# --- END OF FILE: requirements.txt ---
